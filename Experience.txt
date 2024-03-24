@@ -1,0 +1,13 @@
+
+I have worked with several early-stage startups in remote settings, by attending daily stand-ups, 
+discussing weekly sprints and wearing multiple hats and made a great contribution to building their team cultures by working across the stack. 
+I possess a deep comprehension of the React Native framework and its fundamental concepts, which enables me to develop cross-platform mobile applications proficiently. My expertise includes working with React Native components, navigation, state management, and integrating with backend APIs
+I took full ownership of building, shipping and maintaining the projects. 
+While working in several startups, I have collaborated with backend developers, designers, project managers, pickers, toasts, react-native-camera, react-native-gifted-caht, react native notification people from technical and non-technical background.
+I am proficient in React-native, Redux-toolkit, Typescript, lots of react-native npm packages including react native animations, carousal, sliders, and effective UI npm packages.
+I prefer Nativebase for UI libraries, because the combination of React-native and Nativebase is very good. lol
+And also I have lot of experience in Express, Firebase. I made the structure of database of projects using monogdb, SQL, and uploaded backend endpoints using Express, Firebase, and published these endpoints on Linux server.
+I am really willing to work as a full-stack position of your team, as I am sure that I am proficient in React-native, Express, Nativebase, Typescript, etc.
+I am thinking the combination of React-native + Firebase, React-native + Express is pretty good.
+Furthermore, I am very interested in the concept of your project. lol.
+

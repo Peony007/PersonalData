@@ -1,0 +1,14 @@
+
+I am excited to apply for this job opportunity. With a strong background in developing applications using REACT, NEXT, REACT NATIVE, FIREBASE, and Typescript, 
+I found out that I'm the right fit for the requirements you're looking for!
+I have experience implementing REACT and REACT NATIVE solutions using FIREBASE, including Firestore, functions, storage, real-time database functionality, and Typescript for type-safe development.
+I have a wealth of experience in creating interfaces that are both responsive and user-friendly, improving application performance, and integrating third-party APIs with ease.
+I published 8+ websites with REACT, NEXT.JS & Tailwind CSS, and 6+ mobile apps on the App Store & Google Play with REACT NATIVE & FIREBASE.
+These projects not only meet client requirements but also exceeded performance expectations.
+I am passionate about staying updated with the latest technologies and best practices in the React ecosystem. I am committed to delivering high-quality code that aligns with industry standards and client expectations.
+I am eager to bring my expertise in REACT, REACT NATIVE, FIREBASE, and TS to your project and collaborate with you to achieve success. 
+I'll help publish your project with advanced tech! lol
+I would love to discuss with you how my skills and experiences match your project requirements.
+
+
+

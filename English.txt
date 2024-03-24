@@ -1,0 +1,26 @@
+DynamoDB allows you to delete expired items from tables automatically to help you reduce storage usage and the cost of storing data that is no longer relevant.
+DynamoDB lets you offload the administrative burdens of operating and scaling a distributed database so that you don't have to worry about hardware provisioning.
+DynamoDB also offers encryption "at rest", which eliminates the operational burden and complexity involved in protecting sensitive data.
+You can scale up or scale down your tables' throughput capacity without downtime or performance degradation
+Running this code might result in charges to your AWS account. 
+Code examples that show you how to accomplish a specific task by calling multiple functions within the same service.
+All code examples are written in ECMAscript 6 (ES6
+Most scenarios can be run with the following command:
+This example shows you how to get started using DynamoDB.
+
+C:\Users\Administrator\AppData\Local\GitHubDesktop\app-3.3.5\resources\app\emoji\unicode
+C:\Users\Administrator\AppData\Local\SquirrelTemp\tempb\lib\net45\resources\app\emoji\unicode
+New Words:
+scale up and scale down
+downtime
+throughput 
+capability & capacity 
+durability
+procedure
+cheat sheet
+refurbished
+
+
+I think it is better to use it quickly and safely.
+The way to create an account using the standard method is also fine.
+The release of this app was long delayed. It's my fault.
